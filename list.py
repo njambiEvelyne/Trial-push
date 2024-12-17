@@ -18,3 +18,5 @@ output_list = [number for number in input_list if number %2 == 0]
 
 print(output_list)
 
+# All the lines of code are executable
+
